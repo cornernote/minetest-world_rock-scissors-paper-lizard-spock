@@ -1,6 +1,8 @@
 # Minetest World - Rock Scissors Paper Lizard Spock
 
-Built using mesecons!
+Mesecons creation that allows you to play Rock Paper Scissors Lizard Spock in Minetest! 
+
+Winner of the [1st Mesecons Machine Competition!](https://forum.minetest.net/viewtopic.php?id=2810).
 
 
 ## Description
