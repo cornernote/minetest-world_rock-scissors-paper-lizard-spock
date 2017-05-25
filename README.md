@@ -52,6 +52,18 @@ There are ten possible pairings of the five gestures; each gesture beats two of 
 
 ## Screenshots
 
+![screenshot_372456729](https://cloud.githubusercontent.com/assets/51875/26443213/963e1728-4176-11e7-9828-838fe58f502f.png)
+
+![screenshot_372789831](https://cloud.githubusercontent.com/assets/51875/26443217/96991d08-4176-11e7-9cbd-0c2ad9f99d09.png)
+
+![screenshot_372496451](https://cloud.githubusercontent.com/assets/51875/26443214/9671a502-4176-11e7-889b-075f33536838.png)
+
+![screenshot_372550488](https://cloud.githubusercontent.com/assets/51875/26443218/96995f52-4176-11e7-9d4d-b1ce58c6d87e.png)
+
+![screenshot_372615123](https://cloud.githubusercontent.com/assets/51875/26443220/9699f6b0-4176-11e7-8439-7342f50f64d3.png)
+
+![screenshot_372643142](https://cloud.githubusercontent.com/assets/51875/26443219/9699bec0-4176-11e7-9b47-71c3da8b50b9.png)
+
 
 ## Credits
 
