@@ -27,6 +27,8 @@ The rules of Rock-paper-scissors-lizard-Spock are:
 
 There are ten possible pairings of the five gestures; each gesture beats two of the other gestures and is beaten by the remaining two.
 
+![rules](http://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Pierre_ciseaux_feuille_l%C3%A9zard_spock_aligned.svg/600px-Pierre_ciseaux_feuille_l%C3%A9zard_spock_aligned.svg.png)
+
 
 ## Features
 
